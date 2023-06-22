@@ -2,6 +2,6 @@ This is the first line
 
 Apple
 
-Horse
+Horse edited straight on github
 
 House
